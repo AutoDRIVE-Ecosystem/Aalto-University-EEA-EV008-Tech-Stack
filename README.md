@@ -1,5 +1,7 @@
 # Aalto University EEA-EV008 Tech Stack
 
+![AutoDRIVE-Aalto](graphics/Banner%20-%20Thin.png)
+
 ![Github Stars](https://img.shields.io/github/stars/AutoDRIVE-Ecosystem/AutoDRIVE-Aalto-University-Course?style=flat&color=blue&label=stars&logo=github&logoColor=white)
 ![Github Forks](https://img.shields.io/github/forks/AutoDRIVE-Ecosystem/AutoDRIVE-Aalto-University-Course?style=flat&color=blue&label=forks&logo=github&logoColor=white)
 ![Github Downloads](https://img.shields.io/github/downloads/AutoDRIVE-Ecosystem/AutoDRIVE-Aalto-University-Course/total?style=flat&color=blue&label=downloads&logo=github&logoColor=white)

@@ -158,7 +158,7 @@ docker context use default
 
 ## Citation
 
-We encourage you to read and cite the following papers if you use any part of the competition framework for your research:
+We encourage you to read and cite the following papers if you use any part of this framework:
 
 #### [AutoDRIVE: A Comprehensive, Flexible and Integrated Digital Twin Ecosystem for Enhancing Autonomous Driving Research and Education](https://arxiv.org/abs/2212.05241)
 ```bibtex
